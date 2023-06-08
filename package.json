@@ -1,6 +1,11 @@
 {
     "name": "@zhengzai97/myfirst",
-    "version": "1.0.0",
+    "version": "1.0.1",
+    "publishConfig": {
+        "access": "public",
+        "registry": "https://registry.npmjs.org/"
+    },
+    "description": "test",
     "author": "@zhengzai97",
     "main": "index.js",
     "repository": {

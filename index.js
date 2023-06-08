@@ -1,5 +1,6 @@
-function demo() {
-    console.log('demo');
+class util {
+    demo() {
+        console.log('demo');
+    }
 }
-
-export default demo;
+export default util;
