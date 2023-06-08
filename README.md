@@ -1,7 +1,4 @@
 ``` sh
-- 工具包
+- 项目介绍：工具包demo
 - 发布 npm publish --access public
-- 上传 git 
-    -- git remote add origin https://github.com/zhenzai97/zhengzai97-utils.git
-    -- git push -u origin master
 ```
