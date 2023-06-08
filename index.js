@@ -1,6 +1,4 @@
-class util {
-    demo() {
-        console.log('demo');
-    }
-}
+import util from "./src/utils";
+
+
 export default util;
