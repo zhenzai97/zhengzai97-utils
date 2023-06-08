@@ -1,0 +1,10 @@
+{
+    "name": "@zhengzai97/myfirst",
+    "version": "1.0.0",
+    "author": "@zhengzai97",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhenzai97/zhengzai97-utils.git"
+    }
+}
